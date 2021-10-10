@@ -2,6 +2,9 @@
 ## Nombre del Proyecto: STIPPS
 ## Descripción: Página para ofrecer el servicio de cursos varios.
 
+# Imagen de página de consulta
+![Imagen de Tabla de Consulta](https://raw.githubusercontent.com/GrupoNaranja/STIPPS/main/docs/Tabla%20de%20Consulta%202021-10-09.jpg)
+
 # Stacks (Tecnologías Usadas):
 ## Visual Studio Code
 ## GitHub
