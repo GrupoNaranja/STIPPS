@@ -4,6 +4,9 @@
 
 # Stacks (Tecnologías Usadas):
 ## Visual Studio Code
+## GitHub
+
+# Stacks por Implementar:
 ### Thunder Client
 ### Ajax
 ## MySQL
@@ -12,19 +15,32 @@
 # DataBase
 ## Arbol de Contenido de la Database:
 Areas - Cursos
-### * Ambiental
-### - Manejos De residuos orgánicos
-### - Manejo De aguas residuales
-### - Extracion de agua con bombas de ariete
-### * Juridico
-### - Penal
-### - Civil
-### - Técnico
 ### * Programación
-### - Principios de computacion
-### - Lenguajes de programacion
+### - Introducción a la Informática
+### - Programación uno
+### - Programación dos
+### - Programación tres
+
+### * Ambiental
+### - Tratamiento De Residuos Sólidos orgánicos
+### - Tratamiento De aguas residuales
+### - Instalación de Baño Seco y Tratamiento Excretas
+### - Sistema de Compostage
+### * Derecho
+### - Derecho Agrario
+### - Derecho Civil
+### - Derecho Comercial
+### - Derecho Constitucional
+### - Derecho Familia
+### - Derecho Laboral
+### - Derecho Penal
 ### * Social
-### - Programas para La Familia
+### - Asistencia a Familias
+### * Tecnología
+### - Principio de Mecánica Básica
+### - Motores
+### - Extracion de agua con bombas de ariete
+### - Sistemas Fotovoltaicos y Soluciones con Energía Solar
 
 ## Estructura de Datos
 Tabla - Campos
