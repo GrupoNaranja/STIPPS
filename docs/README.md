@@ -45,16 +45,11 @@ Areas - Cursos
 ### - Extracion de agua con bombas de ariete
 ### - Sistemas Fotovoltaicos y Soluciones con Energía Solar
 
-## Estructura de Datos
-Tabla - Campos
-#### * curso
-#### - id
-#### - nombre
-#### * docente
-#### - id
-#### - nombre
-#### - correo
-#### * persona
-#### - id
-#### - nombre
-#### - correo
+# Falta:
+## * View de consulta:
+## - Hacer que los elementos de selección de cursos filtren las opciones para dejar solamente aquellas que correspondan con el Area de educación previamente seleccionado.
+## - Que el botón de agregar curso se mantenga deshabilitado hasta cuando se tenga seleccionado un curso.
+## * Conexiones:
+## - Conectarse a una base de datos en MySQL
+## - Conectarse a un servidor
+## - Conectar el servidor a una base de datos MySQL

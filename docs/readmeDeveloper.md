@@ -30,7 +30,8 @@ git push
 npm init -y
 
 ### Instalar Dependencias del Proyecto:
-npm install mysql express cors
+npm install mysql express morgan
+npm install express express-handlebars express-session mysql express-mysql-session morgan bcryptjs passport passport-local timeago.js connect-flash express-validator
 
 ### Instalar Dependencias de Desarrollo: Para evitar el tener que reiniciar el servidor por cada modificación.
 npm install nodemon -D
